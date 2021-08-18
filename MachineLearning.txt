@@ -1,7 +1,13 @@
 Welcome To Machine Learning tutorials
 
-1. Linear Regression
+1.Linear Regression
 2.Logistic Regression
-3. Ensembles
+3.Ensembles
 4.SVM
 5.KNN
+
+
+1.K-Means
+2.PCA
+3.DBSCAN
+
