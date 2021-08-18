@@ -7,6 +7,9 @@ Welcome To Machine Learning tutorials
 5.KNN
 
 
+Need to learn Semi-Supervised and Reinforced Machine Learning
+
+
 1.K-Means
 2.PCA
 3.DBSCAN
